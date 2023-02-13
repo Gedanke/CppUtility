@@ -25,7 +25,7 @@ namespace civitasv
             JsonArray *parseArray();
 
         private:
-            // 使用 scanner_ 可以接收一个字符串或者文件
+            // 使用 scanner_ 接收一个字符串或者文件
             Scanner scanner_;
         };
     }

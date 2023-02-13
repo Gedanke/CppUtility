@@ -1,6 +1,6 @@
 # README
 
-reference [link](https://github.com/Civitasv/mini-json-parser)
+[参考链接](https://github.com/Civitasv/mini-json-parser)
 
 * 实现 Scanner，用于词法分析，扫描 json 字符串，获取 TokenType
 * 实现 Parser，用于语法分析，根据 json spec 中描述的 json 语法格式，对 Scanner 生成的 Tokens 进行解析，从而解析为 C++ 中的 `map` 和 `vector`

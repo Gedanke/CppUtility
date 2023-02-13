@@ -12,7 +12,10 @@ std::string read()
     return source;
 }
 
-void print(const std::string &message) { std::cout << message; }
+void print(const std::string &message)
+{
+    std::cout << message;
+}
 
 void repl()
 {
