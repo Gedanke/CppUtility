@@ -1,6 +1,7 @@
 # readme
 
-项目地址 [https://github.com/Gedanke/CppUtility](https://github.com/Gedanke/CppUtility)
+* 项目地址 [https://github.com/Gedanke/CppUtility](https://github.com/Gedanke/CppUtility)
+* 文档地址 [link](https://juejin.cn/post/7124937241578700836?share_token=0f948470-c90c-4df6-841c-025769bf51a0)
 
 ---
 
